@@ -60,33 +60,17 @@ This project demonstrates the basics of sensor interfacing, analog data processi
 
 ---
 
-# 📦 Block Diagram
+# Project Images
 
-> Add your generated Block Diagram image inside the **images** folder.
+## Block Diagram
 
-```text
-images/
-└── block_diagram.png
-```
-
-```markdown
-![Block Diagram](images/block_diagram.png)
-```
+![Block Diagram](Images/Block_Diagram.png)
 
 ---
 
-# 🔄 Flow Diagram
+## Flow Diagram
 
-> Add your generated Flow Diagram image inside the **images** folder.
-
-```text
-images/
-└── flow_diagram.png
-```
-
-```markdown
-![Flow Diagram](images/flow_diagram.png)
-```
+![Flow Diagram](Images/Flow_Diagram.png)
 
 ---
 
